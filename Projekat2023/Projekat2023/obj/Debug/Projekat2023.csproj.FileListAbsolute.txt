@@ -1,0 +1,40 @@
+C:\Users\User\Documents\IV godina\VIII semestar\MMS\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IV godina\VIII semestar\MMS\Projekat2023\Projekat2023\obj\Debug\Projekat2023.Form1.resources
+C:\Users\User\Documents\IV godina\VIII semestar\MMS\Projekat2023\Projekat2023\obj\Debug\Projekat2023.Properties.Resources.resources
+C:\Users\User\Documents\IV godina\VIII semestar\MMS\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.GenerateResource.cache
+C:\Users\User\Documents\IV godina\VIII semestar\MMS\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IV godina\VIII semestar\MMS\Projekat2023\Projekat2023\bin\Debug\Projekat2023.exe.config
+C:\Users\User\Documents\IV godina\VIII semestar\MMS\Projekat2023\Projekat2023\bin\Debug\Projekat2023.exe
+C:\Users\User\Documents\IV godina\VIII semestar\MMS\Projekat2023\Projekat2023\bin\Debug\Projekat2023.pdb
+C:\Users\User\Documents\IV godina\VIII semestar\MMS\Projekat2023\Projekat2023\obj\Debug\Projekat2023.exe
+C:\Users\User\Documents\IV godina\VIII semestar\MMS\Projekat2023\Projekat2023\obj\Debug\Projekat2023.pdb
+C:\Users\Katarina\Downloads\17905 Milica Rangelov\Projekat2023\Projekat2023\bin\Debug\Projekat2023.exe.config
+C:\Users\Katarina\Downloads\17905 Milica Rangelov\Projekat2023\Projekat2023\bin\Debug\Projekat2023.exe
+C:\Users\Katarina\Downloads\17905 Milica Rangelov\Projekat2023\Projekat2023\bin\Debug\Projekat2023.pdb
+C:\Users\Katarina\Downloads\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.AssemblyReference.cache
+C:\Users\Katarina\Downloads\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.Form1.resources
+C:\Users\Katarina\Downloads\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.Properties.Resources.resources
+C:\Users\Katarina\Downloads\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.GenerateResource.cache
+C:\Users\Katarina\Downloads\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Downloads\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.exe
+C:\Users\Katarina\Downloads\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.pdb
+C:\Users\Katarina\Desktop\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.AssemblyReference.cache
+C:\Users\Katarina\Desktop\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.Form1.resources
+C:\Users\Katarina\Desktop\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.Properties.Resources.resources
+C:\Users\Katarina\Desktop\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.GenerateResource.cache
+C:\Users\Katarina\Desktop\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Desktop\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.exe
+C:\Users\Katarina\Desktop\17905 Milica Rangelov\Projekat2023\Projekat2023\obj\Debug\Projekat2023.pdb
+C:\Users\Katarina\Desktop\17905 Milica Rangelov\Projekat2023\Projekat2023\bin\Debug\Projekat2023.exe.config
+C:\Users\Katarina\Desktop\17905 Milica Rangelov\Projekat2023\Projekat2023\bin\Debug\Projekat2023.exe
+C:\Users\Katarina\Desktop\17905 Milica Rangelov\Projekat2023\Projekat2023\bin\Debug\Projekat2023.pdb
+C:\Users\Katarina\Desktop\17532_Katarina_Adamovic\Projekat2023\Projekat2023\bin\Debug\Projekat2023.exe.config
+C:\Users\Katarina\Desktop\17532_Katarina_Adamovic\Projekat2023\Projekat2023\bin\Debug\Projekat2023.exe
+C:\Users\Katarina\Desktop\17532_Katarina_Adamovic\Projekat2023\Projekat2023\bin\Debug\Projekat2023.pdb
+C:\Users\Katarina\Desktop\17532_Katarina_Adamovic\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.AssemblyReference.cache
+C:\Users\Katarina\Desktop\17532_Katarina_Adamovic\Projekat2023\Projekat2023\obj\Debug\Projekat2023.Form1.resources
+C:\Users\Katarina\Desktop\17532_Katarina_Adamovic\Projekat2023\Projekat2023\obj\Debug\Projekat2023.Properties.Resources.resources
+C:\Users\Katarina\Desktop\17532_Katarina_Adamovic\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.GenerateResource.cache
+C:\Users\Katarina\Desktop\17532_Katarina_Adamovic\Projekat2023\Projekat2023\obj\Debug\Projekat2023.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Desktop\17532_Katarina_Adamovic\Projekat2023\Projekat2023\obj\Debug\Projekat2023.exe
+C:\Users\Katarina\Desktop\17532_Katarina_Adamovic\Projekat2023\Projekat2023\obj\Debug\Projekat2023.pdb
